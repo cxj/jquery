@@ -18,14 +18,11 @@
         }
     ],
     "extra": {
-        "component": {
-            "scripts": [
-                "jquery.js"
-            ],
-            "files": [
-                "jquery.min.js",
-                "jquery.min.map"
-            ]
+        "assets-dir": "src",
+        "assets-presets": {
+            "jquery": {
+                "jsfiles-footer": "jquery.js"
+            }
         }
     }
 }
