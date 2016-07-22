@@ -1,6 +1,6 @@
 {
     "name": "jquery",
-    "repo": "components/jquery",
+    "repo": "cxj/jquery",
     "version": "3.1.0",
     "description": "jQuery component",
     "license": "MIT",
