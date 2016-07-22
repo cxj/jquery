@@ -1,5 +1,5 @@
 {
-    "name": "components/jquery",
+    "name": "cxj/jquery",
     "description": "jQuery JavaScript Library",
     "type": "library-assets",
     "homepage": "http://jquery.com",
