@@ -18,7 +18,7 @@
         }
     ],
     "extra": {
-        "assets-dir": "src",
+        "assets-dir": ".",
         "assets-presets": {
             "jquery": {
                 "jsfiles-footer": "jquery.js"
